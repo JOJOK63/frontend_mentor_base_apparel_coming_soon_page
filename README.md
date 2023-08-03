@@ -1,0 +1,1 @@
+# frontend_mentor_base_apparel_coming_soon_page
